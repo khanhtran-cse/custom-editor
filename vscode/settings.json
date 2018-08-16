@@ -1,0 +1,4 @@
+{
+    "vscode_custom_css.imports": ["file://{Path to style file}"],
+    "vscode_custom_css.policy": true,
+}
